@@ -15,7 +15,7 @@ address and port to any external IP address and port
 * Hairpinning - allows communication between two internal subscribers or internal hosts using the NAT IP
 * User quotas support. Default value is 1000 max connections for each user (for each protocol independly)
 * No ALGs for FTP/SIP/PPTP are implemented
-* NAT events export using Netflow v5
+* NAT events export using **Netflow v9**
 * NAT statistics via /proc interface
 
 ## Installation
